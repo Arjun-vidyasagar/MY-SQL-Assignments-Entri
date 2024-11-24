@@ -1,1 +1,3 @@
-# MY-SQL-Assignments-Entri
+# Assignment 1-DDL Commands
+
+This assignment involves creating and manipulating a database named School to demonstrate various DDL commands in SQL. A table named STUDENT was created with fields Roll_No, Name, Marks, and Grade, incorporating constraints for data integrity. Sample data was inserted, and the SELECT command was used to display records. The table was altered by adding a Contact column and removing the Grade column. It was then renamed to CLASSTEN, and all rows were deleted using the TRUNCATE command while retaining the table structure. Finally, the table was permanently removed using the DROP command, showcasing the complete lifecycle of table management in SQL.
