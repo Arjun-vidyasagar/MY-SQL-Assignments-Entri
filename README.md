@@ -12,3 +12,6 @@ This assignemnt involves fundamental operations for database management and quer
 
 # Assignment 5-Sorting and Grouping data
 This assignment involves creating a world database with two tables: Country (fields: ID, Country_Name, Population, Area) and Persons (fields: ID, Fname, Lname, Population, Rating, Country_Id, Country_Name). After creating the tables, 10 rows of data were inserted into both. The assignment includes SQL queries to perform basic operations like selecting parts of data (e.g., first three characters of Country_Name), concatenating names, counting unique countries, and finding maximum and minimum populations. It also includes grouping and sorting data, such as counting persons per country and finding average ratings. 
+
+# Assignment 6-Joins and Union
+This assignment involves creating a database named world with two tables: Country and Persons. The Country table stores details about various countries, including their population and area, while the Persons table contains information about individuals, including their name, associated country, and ratings. After inserting sample data into both tables, SQL queries are used to perform various operations, such as joining the tables with inner, left, and right joins, extracting distinct and duplicate country names, and rounding ratings in the Persons table.
